@@ -13,7 +13,7 @@ Another ethical concern is the impact of AI on employment opportunities. As AI b
 Legal Considerations
 --------------------
 
-There are also legal considerations when using AI in writing. For example, if an AI tool generates content that infringes on someone else's copyright, the user may be held liable for damages. Additionally, there may be legal issues related to data privacy and security, which we will explore in the next section.
+There are also legal considerations when using AI in writing. For example, if an AI tool generates content that infringes on someone else's copyright, the user may be held liable for damages.
 
 Teachers and students must be aware of these legal considerations and take steps to ensure that they are not violating any laws or regulations when using AI in writing.
 
