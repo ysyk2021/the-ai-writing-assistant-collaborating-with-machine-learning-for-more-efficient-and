@@ -1,4 +1,4 @@
-Future of AI in Writing - Preparing for the Future
+Preparing for the Future
 =============================================================
 
 Artificial intelligence (AI) and machine learning have already transformed writing education, providing personalized feedback and instruction to students. As these technologies continue to evolve, it's important for educators and institutions to prepare for the future of AI in writing education. In this chapter, we will explore some of the emerging trends and developments in AI-powered writing tools and discuss how educators and institutions can prepare for these changes.

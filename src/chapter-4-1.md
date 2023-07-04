@@ -1,4 +1,4 @@
-Challenges of AI in Writing - Ethical Considerations
+Ethical Considerations
 ===============================================================
 
 As AI-powered writing tools and machine learning algorithms become more prevalent in writing education, there are ethical considerations that must be taken into account to ensure that these technologies are used responsibly. In this chapter, we will explore the ethical challenges of AI in writing.

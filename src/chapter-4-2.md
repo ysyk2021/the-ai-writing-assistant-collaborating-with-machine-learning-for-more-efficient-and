@@ -1,4 +1,4 @@
-Challenges of AI in Writing - Legal Considerations
+Legal Considerations
 =============================================================
 
 As AI-powered writing tools and machine learning algorithms become more prevalent in writing education, there are legal considerations that must be taken into account to ensure that these technologies are used ethically and responsibly. In this chapter, we will explore the legal challenges of AI in writing.

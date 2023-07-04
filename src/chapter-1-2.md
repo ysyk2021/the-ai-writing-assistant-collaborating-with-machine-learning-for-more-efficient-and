@@ -1,4 +1,4 @@
-Introduction - Why Using Machine Learning for Writing is Important
+Why Using Machine Learning for Writing is Important
 =============================================================================
 
 Writing is a critical skill in today's society, with written communication being a key component of nearly every profession. However, many students struggle with writing and require additional support to develop their skills. This is where machine learning comes in. In this chapter, we will explore why using machine learning for writing is important.

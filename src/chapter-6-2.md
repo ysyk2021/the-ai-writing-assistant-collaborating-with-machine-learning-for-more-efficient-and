@@ -1,4 +1,4 @@
-Implementing AI in Writing - Overcoming Resistance to Change
+Overcoming Resistance to Change
 =======================================================================
 
 Implementing artificial intelligence (AI) and machine learning in writing education can be a significant change for educators and institutions. Resistance to change is common, but there are strategies that can help overcome this resistance. In this chapter, we will explore how to overcome resistance to change when implementing AI-powered writing tools.

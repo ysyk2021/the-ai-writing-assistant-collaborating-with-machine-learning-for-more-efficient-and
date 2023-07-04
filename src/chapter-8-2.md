@@ -1,4 +1,4 @@
-Future of AI in Writing - Potential Challenges and Opportunities
+Potential Challenges and Opportunities
 ===========================================================================
 
 Artificial intelligence (AI) and machine learning have already transformed writing education, providing personalized feedback and instruction to students. As these technologies continue to evolve, there are both challenges and opportunities that educators and institutions must consider. In this chapter, we will explore some of the potential challenges and opportunities for the future of AI in writing education.
