@@ -1,5 +1,4 @@
-Grammar and Style Checking
-====================================================================
+
 
 One of the most common applications of AI in writing is grammar and style checking. AI-powered writing tools can help users to identify and correct errors in their writing, improving the overall quality of written communication. In this chapter, we will explore how AI is used in grammar and style checking and the benefits it provides.
 

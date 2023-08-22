@@ -1,5 +1,4 @@
-Chapter 7: Managing AI in Writing
-=================================
+
 
 Artificial intelligence (AI) and machine learning have the potential to transform writing education by providing personalized feedback and instruction to students. However, managing AI in writing requires careful consideration of several factors, including data management, transparency and accountability, and potential biases. In this chapter, we will explore how to effectively manage AI in writing education.
 

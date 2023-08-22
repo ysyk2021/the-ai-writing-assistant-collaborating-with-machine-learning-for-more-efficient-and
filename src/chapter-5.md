@@ -1,5 +1,4 @@
-Chapter 5: Applications of AI in Writing
-========================================
+
 
 AI-powered writing tools and machine learning algorithms have numerous applications in writing education, from grammar and style checking to collaborative writing and editing. In this chapter, we will explore some of the most common applications of AI in writing.
 

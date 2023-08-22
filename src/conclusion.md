@@ -1,4 +1,4 @@
-# Conclusion
+
 
 The Power of AI in Writing Education
 ------------------------------------

@@ -1,5 +1,4 @@
-Chapter 9: Conclusion
-=====================
+
 
 The Power of AI in Writing Education
 ------------------------------------

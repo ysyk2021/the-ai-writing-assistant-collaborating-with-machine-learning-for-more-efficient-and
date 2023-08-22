@@ -1,5 +1,4 @@
-Historical Overview of AI in Writing
-=============================================================================
+
 
 Artificial intelligence (AI) has been used in writing education for several decades, with the development of machine learning algorithms that can analyze and provide feedback on written text. In this chapter, we will provide a historical overview of AI in writing.
 

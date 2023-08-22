@@ -1,5 +1,4 @@
-Chapter 8: Future of AI in Writing
-==================================
+
 
 The future of AI in writing is promising, with emerging trends and potential challenges and opportunities that have the potential to transform the way we approach writing. In this chapter, we will explore the future of AI in writing, including emerging trends, potential challenges and opportunities, and how educators and institutions can prepare for the future.
 
