@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) and machine learning require large amounts of data to function effectively. In the context of writing education, this means that AI-powered writing tools rely on student writing samples and other data to provide personalized feedback and instruction. Effective data management is essential to ensuring the accuracy and effectiveness of AI-powered writing tools. In this chapter, we will explore how to manage data when implementing AI-powered writing tools.
 
 Data Collection

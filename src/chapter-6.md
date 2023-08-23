@@ -1,5 +1,4 @@
 
-
 Implementing AI in writing can be a complex and challenging process. In this chapter, we will explore some of the key considerations for implementing AI in writing, including developing an AI strategy, overcoming resistance to change, and best practices for implementation.
 
 Developing an AI Strategy

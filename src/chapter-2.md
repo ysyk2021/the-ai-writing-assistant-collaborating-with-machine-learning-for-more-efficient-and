@@ -1,5 +1,4 @@
 
-
 To fully appreciate the benefits and challenges of using AI in writing, it is important to understand what AI is and how it works. In this chapter, we will provide a historical overview of AI in writing, describe different types of AI used in writing, and explain how AI works in the writing process.
 
 Historical Overview of AI in Writing

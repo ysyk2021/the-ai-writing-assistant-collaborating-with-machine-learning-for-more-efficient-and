@@ -1,5 +1,4 @@
 
-
 AI-powered writing tools are transforming the field of writing education and professional writing. In this chapter, we will explore how AI works in writing, including the technologies and techniques used by AI-powered writing tools.
 
 Natural Language Processing (NLP)

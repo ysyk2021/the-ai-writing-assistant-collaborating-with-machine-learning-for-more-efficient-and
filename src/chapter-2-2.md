@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) can be used in writing education in a variety of ways, from grammar and style checking to idea generation and organization. In this chapter, we will explore the different types of AI in writing.
 
 Rule-Based Systems
