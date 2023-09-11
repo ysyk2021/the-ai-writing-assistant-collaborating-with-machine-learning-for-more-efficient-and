@@ -1,5 +1,4 @@
-Chapter 8: Developing an AI Strategy
-====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the process of developing an effective AI strategy for integrating AI writing assistants and machine learning into your writing workflow. A well-thought-out AI strategy can help you harness the full potential of these tools while aligning them with your writing goals and objectives.
 

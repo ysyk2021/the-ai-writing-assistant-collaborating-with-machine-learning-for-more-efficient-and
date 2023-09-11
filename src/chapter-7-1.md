@@ -1,5 +1,4 @@
-Chapter 6: Data Management
-==========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Effective data management is at the core of leveraging AI writing assistants and machine learning for more efficient and effective writing. In this chapter, we will explore the key principles and strategies for managing data in the context of AI-powered writing.
 

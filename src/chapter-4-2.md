@@ -1,5 +1,4 @@
-Chapter 10: Legal Considerations
-================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In an era where AI writing assistants and machine learning technologies are becoming integral to the writing process, it is essential to understand and navigate the legal landscape. This chapter explores the legal considerations and implications that writers, organizations, and developers should be aware of when using AI writing assistants.
 

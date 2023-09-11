@@ -1,5 +1,4 @@
-Chapter 5: Collaborative Writing and Editing
-============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Collaborative writing and editing have undergone a transformative evolution with the integration of AI writing assistants and machine learning technologies. In this chapter, we will explore the dynamics of collaborative writing in the context of AI, examining how writers, editors, and AI systems can work together to enhance the efficiency and effectiveness of the writing process.
 

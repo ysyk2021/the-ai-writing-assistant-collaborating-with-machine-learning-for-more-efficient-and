@@ -1,5 +1,4 @@
-Chapter 4: Types of AI in Writing
-=================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will categorize and explore the different types of AI systems and applications that play pivotal roles in the realm of writing. Understanding these various types of AI in writing is essential for writers and content creators to choose the right tools and approaches for their specific needs.
 

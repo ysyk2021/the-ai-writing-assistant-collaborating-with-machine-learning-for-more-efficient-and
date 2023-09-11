@@ -1,5 +1,4 @@
-Chapter 7: Increased Accuracy and Effectiveness
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the ways in which AI writing assistants and machine learning technologies enhance the accuracy and effectiveness of the writing process. The collaboration between writers and AI tools can significantly elevate the quality and impact of written content.
 

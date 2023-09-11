@@ -1,5 +1,4 @@
-Chapter 4: Grammar and Style Checking
-=====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the vital role of grammar and style checking in the context of AI writing assistants. The collaboration between writers and machine learning tools can significantly enhance the quality and clarity of written content.
 

@@ -1,5 +1,4 @@
-Chapter 6: Overcoming Resistance to Change
-==========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Change is a constant in our rapidly evolving world, and integrating AI writing assistants into your writing process can be a transformative experience. However, it's common for individuals and organizations to face resistance when adopting new technologies. In this chapter, we will explore strategies to overcome resistance to change and make the transition to AI-assisted writing more efficient and effective.
 

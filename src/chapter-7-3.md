@@ -1,5 +1,4 @@
-Chapter 5: Addressing Potential Bias
-====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the critical issue of addressing potential bias when utilizing AI writing assistants and machine learning tools for more efficient and effective writing.
 

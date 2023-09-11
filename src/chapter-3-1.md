@@ -1,5 +1,4 @@
-Chapter 6: Enhanced Creativity and Innovation
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how AI writing assistants, in collaboration with machine learning, contribute to enhanced creativity and innovation in the writing process. Contrary to the notion that AI stifles creativity, we will discover how it can inspire writers and expand their creative horizons.
 

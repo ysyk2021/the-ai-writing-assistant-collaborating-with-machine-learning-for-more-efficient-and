@@ -1,5 +1,4 @@
-Chapter 9: Preparing for the Future
-===================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this concluding chapter, we will explore the ways in which writers and content creators can prepare for the future in the context of AI writing assistants and machine learning. As AI technologies continue to advance, it is essential to adapt and embrace the opportunities they offer while addressing potential challenges.
 

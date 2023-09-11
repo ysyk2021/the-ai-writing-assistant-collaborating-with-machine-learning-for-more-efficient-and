@@ -1,5 +1,4 @@
-Chapter 9: Privacy and Security Concerns
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In an era where AI writing assistants and machine learning technologies play an increasingly significant role in the writing process, it is essential to address the critical issues of privacy and security. This chapter explores the various concerns and strategies related to safeguarding sensitive data and maintaining privacy while using AI writing assistants.
 

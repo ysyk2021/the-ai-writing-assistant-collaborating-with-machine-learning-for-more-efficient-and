@@ -1,5 +1,4 @@
-Chapter 7: Ethical Considerations
-=================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As we embrace the capabilities of AI writing assistants and machine learning technologies to enhance our writing processes, it is crucial to recognize and address the ethical implications that come with these advancements. In this chapter, we will explore the ethical considerations that writers, organizations, and developers must take into account when using AI writing assistants.
 

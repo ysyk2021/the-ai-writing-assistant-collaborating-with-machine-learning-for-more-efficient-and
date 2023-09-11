@@ -1,5 +1,4 @@
-Chapter 6: Ensuring Transparency and Accountability
-===================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the critical aspects of ensuring transparency and accountability when using AI writing assistants and machine learning tools for more efficient and effective writing.
 

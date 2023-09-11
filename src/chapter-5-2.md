@@ -1,5 +1,4 @@
-Chapter 3: Idea Generation and Organization
-===========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the critical process of idea generation and organization when utilizing AI writing assistants. Effective writing begins with a well-structured and compelling set of ideas, and machine learning can play a pivotal role in enhancing this crucial phase.
 

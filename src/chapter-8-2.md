@@ -1,5 +1,4 @@
-Chapter 8: Potential Challenges and Opportunities
-=================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will examine the potential challenges and opportunities that arise from the collaboration between writers and AI writing assistants powered by machine learning. While AI offers significant advantages, it also presents certain challenges that writers and content creators must navigate.
 

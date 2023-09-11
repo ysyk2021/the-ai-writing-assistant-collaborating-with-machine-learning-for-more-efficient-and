@@ -1,5 +1,4 @@
-Chapter 2: Historical Overview of AI in Writing
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will take a journey through the history of artificial intelligence (AI) in writing. From its humble beginnings to its current state, AI has played a significant role in transforming the writing process. Understanding this historical context is essential for appreciating the evolution and impact of AI writing assistants today.
 
